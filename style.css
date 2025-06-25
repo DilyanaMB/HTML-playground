@@ -26,3 +26,29 @@
         .big {
             font-size: 100px
         }
+
+        .orange {
+            background-color: orange
+        }
+
+        .green {
+            background-color: rgb(100, 220, 100)
+        }
+
+        .blue {
+            background-color: rgb(84, 123, 249)
+        }
+
+        .red {
+            background-color: rgb(255, 0, 0)
+        }
+
+        .purple {
+            background-color: rgb(170, 81, 234)
+        }
+
+        .colours {
+            font-size: 40px;
+            display: inline-block;
+            text-align: center;
+        }
